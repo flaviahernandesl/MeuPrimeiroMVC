@@ -95,3 +95,4 @@ C:\Projetos\MeuPrimeiroMVC\obj\Debug\net10.0\MeuPrimeiroMVC.pdb
 C:\Projetos\MeuPrimeiroMVC\obj\Debug\net10.0\MeuPrimeiroMVC.genruntimeconfig.cache
 C:\Projetos\MeuPrimeiroMVC\obj\Debug\net10.0\ref\MeuPrimeiroMVC.dll
 C:\Projetos\MeuPrimeiroMVC\obj\Debug\net10.0\compressed\wzfv129265-{0}-i0x0wq80yv-i0x0wq80yv.gz
+C:\Projetos\MeuPrimeiroMVC\obj\Debug\net10.0\MeuPrimeiroMVC.sourcelink.json
